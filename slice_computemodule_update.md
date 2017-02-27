@@ -18,4 +18,7 @@ sudo apt-get install libusb-1.0.0-dev
 make
 ```
 
+2) - Download the installer from LibreELEC from https://libreelec.tv/downloads/11
+
+
 2) Now wait for my ordered compute model to come through
