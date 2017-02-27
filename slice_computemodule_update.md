@@ -7,7 +7,7 @@
 
 ### What I did
 
-1) Went through the instructions on [here](https://www.raspberrypi.org/documentation/hardware/computemodule/cm-emmc-flashing.md)
+1. Went through the instructions on [here](https://www.raspberrypi.org/documentation/hardware/computemodule/cm-emmc-flashing.md)
 to clone a repository, and then build 
 
 ```
@@ -19,14 +19,14 @@ make
 mkdir ~/src/slice3
 ```
 
-2) - Download the installer from LibreELEC from https://libreelec.tv/downloads/
+2. - Download the installer from LibreELEC from https://libreelec.tv/downloads/
 
 Got `LibreELEC.USB-SD.Creator.Linux-64bit.bin`
 
 put in directory `src/slice3`
 
 
-3) Download the build from http://chewitt.libreelec.tv/slice/
+3. Download the build from http://chewitt.libreelec.tv/slice/
 
 I got the img.gz file for the CM3
 ` gunzip LibreELEC-Slice3.arm-8.0.0.img.gz `
@@ -37,4 +37,4 @@ put in directory `src/slice3`
 
 
 
-2) Now wait for my ordered compute model to come through
+2. Now wait for my ordered compute model to come through
