@@ -27,4 +27,14 @@ mkdir ~/src/slice3
 *  put in directory `src/slice3`
 *  `gunzip LibreELEC-Slice3.arm-8.0.0.img.gz`
 
-4) Now wait for my ordered compute model to come through
+4) Computer module arrived
+
+5) plugged in a usb cable to the slice the ran sudo ./rpiboot 
+
+6)  /dev/sde appears
+
+7)  `sudo dd if=LibreELEC-Slice3.arm-8.0.0.img of=/dev/sde bs=4MiB`
+
+8) Finished but then /dev/sde1 and /dev/sde2 do not appear when I unplug and replug in the slice
+
+9) Works when I switch on though.  ssh default root, password libreelec
